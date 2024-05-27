@@ -6,3 +6,4 @@ Input:
 Output
    simple interest = p*t*r
    # github-final-project
+2023
